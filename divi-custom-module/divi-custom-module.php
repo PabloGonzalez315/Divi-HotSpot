@@ -32,7 +32,7 @@ if ( class_exists( 'ET_Builder_Module' ) ) {
                     'upload_button_text' => esc_attr__( 'Subir una imagen', 'et_builder' ),
                     'choose_text'        => esc_attr__( 'Elegir una imagen', 'et_builder' ),
                     'update_text'        => esc_attr__( 'Establecer como imagen', 'et_builder' ),
-                    'description'        => esc_html__( 'Carga una imagen para tu módulo.', 'et_builder' ),
+                    'description'        => esc_html__( 'Carga una imagen para el módulo.', 'et_builder' ),
                 ),
             );
         }
